@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+venv/
+emotion_model/
+final_emotion_model/
